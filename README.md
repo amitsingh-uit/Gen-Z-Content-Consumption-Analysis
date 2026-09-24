@@ -121,4 +121,4 @@ learning and portfolio purposes.
 
 ## 👤 Author
 **Amit Singh**<br>
-[LinkedIn](linkedin.com/in/amit-singh-da) | [GitHub]([your-github-url](https://github.com/amitsingh-uit/Gen-Z-Content-Consumption-Analysis/edit/main/README.md))
+[LinkedIn](linkedin.com/in/amit-singh-da) | [GitHub]([[your-github-url](https://github.com/amitsingh-uit/Gen-Z-Content-Consumption-Analysis/edit/main/README.md)](https://github.com/amitsingh-uit))
